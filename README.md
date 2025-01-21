@@ -1,4 +1,4 @@
-# LAZAREV. Clone -🪀 — Digital Product Design Agency | Award Winning UX & UI Agency
+# [LAZAREV.](https://deepak-mahanta.github.io/lazarev-agency/) Clone -🪀 — Digital Product Design Agency | Award Winning UX & UI Agency
 
 This repository contains the clone of the award-winning Digital Product Design Agency, LAZAREV. This project showcases modern web development techniques, focusing on a seamless user experience and visually appealing design. Built with HTML5, CSS3, JavaScript, and GSAP for animations, this project replicates key functionality like smooth scrolling, loading animations, animated navigation bars, hover effects, and more.
 
